@@ -8,6 +8,8 @@ h1, h2 {
   width: 20%;
   background-color: beige;
   height: 500px;
+  padding: 16px;
+  margin: 10px;
 }
 
 .img1 {
@@ -16,7 +18,7 @@ h1, h2 {
 
 img {
   float: right;
-  width: 75%;
-  height: ;
+  max-width: 50%;
+  max-height: auto;
   padding-bottom:20px;
 }
