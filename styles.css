@@ -1,0 +1,17 @@
+h1, h2 {
+  text-align: center;
+}
+
+.sidebar {
+  float: left;
+  border: 2px solid green;
+  width: 20%;
+  background-color: beige;
+  height: 500px;
+}
+
+.img1 {
+  float: left;
+  width: auto;
+  height: 400px;
+}
